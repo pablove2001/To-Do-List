@@ -1,7 +1,7 @@
 <div>
 <h1  align="center">To Do List</h1>
 
-<h3  align="center">Write tasks fast and easy using <a  href="https://duos2-to-do-list.netlify.app/" target="_blank">this</a> web project</h3>
+<h3  align="center">Write tasks fast and easy using <a  href="https://pve-to-do-list.netlify.app/" target="_blank">this</a> web project</h3>
 </div>
 
 <p  align="center">
@@ -34,7 +34,7 @@ This is a web project allows you to have a list of all the tasks you have to do,
 
 ## How to use it?
 
-- First click <a href="https://duos2-to-do-list.netlify.app/" target="_blank">here</a>
+- First click <a href="https://pve-to-do-list.netlify.app/" target="_blank">here</a>
 - Fill in the fields
 - And click on "Add task"
 - Then you can edit and delete the tasks
